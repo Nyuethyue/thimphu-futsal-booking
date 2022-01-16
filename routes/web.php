@@ -19,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::get('/admin', [AdminController::class, 'index'])->name('admin');
+Route::get('/contact', [AdminController::class, 'contact'])->name('contact');
