@@ -1,12 +1,12 @@
 require('./bootstrap');
 
-// import { createApp } from 'vue';
-// // import router from './routes';
+import { createApp } from 'vue';
+// import router from './routes';
 
-// import home from './components/admin/dashboard/Home.vue';
+import Home from './components/frontend/Home.vue';
 
-// createApp({
-//     components: {
-//         home
-//     }
-// }).mount('#app')
+createApp({
+    components: {
+        Home
+    }
+}).mount('#app')
