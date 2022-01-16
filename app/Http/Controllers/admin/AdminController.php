@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 
 class AdminController extends Controller
 {
-    public function profile() {
-        return view('welcome');
+    public function index() {
+        return view('pages.admin.index');
     }
 }
