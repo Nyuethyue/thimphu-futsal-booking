@@ -8,9 +8,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Fronted</title>
+  <title>Thimphu Futsal</title>
 
   <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+  <link rel="icon" href="{{ url('dist/img/futsal_logo.jpg') }}">
 </head>
 <body class="hold-transition sidebar-mini">
 <div class="wrapper">

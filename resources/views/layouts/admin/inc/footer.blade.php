@@ -4,5 +4,5 @@
       nyuethyue - @ttpl
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2014-2021 <a href="{{ route('admin') }}">thimphu futsal</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2022 <a href="{{ route('admin') }}">thimphu futsal</a>.</strong> All rights reserved.
 </footer>
