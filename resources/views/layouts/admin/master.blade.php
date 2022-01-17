@@ -11,6 +11,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <title>Thimphu Futsal - Admin</title>
 
   <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+  <link rel="icon" href="{{ url('dist/img/futsal_logo.jpg') }}">
+
 </head>
 <body class="hold-transition sidebar-mini">
 <div id="app" class="wrapper">
